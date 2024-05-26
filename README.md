@@ -1,8 +1,9 @@
-# Unofficial CrossSine builds
+<h1>Unofficial CrossSine builds</h1>
 I build them
 
 They are in Releases
 theres nothing in source code.zip btw dont download it
+Remember that releases tagged "Pre-release" are beta builds and may be unstable, so please dont come and complain to me about them
 
 
 
