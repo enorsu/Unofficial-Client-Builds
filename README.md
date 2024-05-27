@@ -2,7 +2,7 @@
 
 
 
-Remember that releases tagged "Pre-release" are beta builds and may be unstable, so please dont come and complain to me about them
+Remember that releases tagged "Pre-release" are beta builds and probably are unstable built from latest commits. Please don't come to complain
 
 
 
