@@ -1,7 +1,6 @@
 <h1>Unofficial CrossSine builds</h1>
-I build them
 
-They are in Releases
+
 
 Remember that releases tagged "Pre-release" are beta builds and may be unstable, so please dont come and complain to me about them
 
